@@ -27,7 +27,7 @@
   - 7844F9D4FFF987C4C0B62655B12105F3A562AEFFA0BCE8FCF435884622503EE7
 
 ## What was pushed
-- Pushed update/gravestone-model-v1 (commit 8f65eaf).
+- Pushed update/gravestone-model-v1 (includes gravestone changes + checkpoint update).
 
 ## Next steps
 - Print pull/build/smoke/assetview commands and wait for WORKED/NOT WORKING.
