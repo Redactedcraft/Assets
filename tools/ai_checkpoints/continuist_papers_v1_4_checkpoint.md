@@ -9,6 +9,7 @@
 ## Files changed
 - C:\Users\Redacted\Documents\AI HELPER\Assets\.gitignore
 - C:\Users\Redacted\Documents\AI HELPER\Assets\textures\blocks\*.png (placeholder textures for lore block additions)
+- C:\Users\Redacted\Documents\AI HELPER\Assets\Assets.zip
 - C:\Users\Redacted\Documents\AI HELPER\Assets\tools\ai_checkpoints\continuist_papers_v1_4_checkpoint.md
 
 ## IDs added (file + value)
@@ -22,9 +23,10 @@
 ## What was pushed
 - Branch update/blocks-and-assets-v1_4 pushed to origin.
 - Tag v6.1 pushed; release created: https://github.com/Redactedcraft/Assets/releases/tag/v6.1.
+- Assets.zip added for distribution.
 
 ## Next steps
-- Phase 2 complete. Update master checkpoint and report release URLs.
+- Phase 2 complete; await further instructions.
 
 ## SWE-1.5 CONTINUATION PROMPT
-If taking over, Phase 2 is complete; verify release URLs and update master checkpoint.
+If taking over, Phase 2 is complete; verify Assets.zip commit and await instructions.
