@@ -1,6 +1,8 @@
 *.exe
 asset_state.json
 Assets.zip
-_tmp_canon_v1_4/
+_tmp_canon_*/
 _wt_*/
 *.log
+lorepack_generated/
+_templates/

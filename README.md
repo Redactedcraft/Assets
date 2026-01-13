@@ -14,6 +14,7 @@ This repo mirrors `RedactedCraftMonoGame/Defaults/Assets` from the game repo.
 - `fonts/default.fnt`
 - `textures/blocks/*.png`
 - `textures/menu/**`
+- `Models/Blocks/*.json`
 
 Anything outside those folders is ignored and should not be shipped.
 
@@ -45,5 +46,5 @@ Do not include a prebuilt atlas in this repo.
 ## Release checklist
 
 1) Update `RELEASE_NOTES.md` with the new version tag.
-2) Regenerate `Assets.zip` from `fonts/` and `textures/`.
+2) Regenerate `Assets.zip` from `data/`, `fonts/`, `textures/`, and `Models/`.
 3) Publish a GitHub release using the same tag (ex: `v5.2`).
