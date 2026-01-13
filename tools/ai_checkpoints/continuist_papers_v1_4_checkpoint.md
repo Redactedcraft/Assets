@@ -24,9 +24,10 @@
 - Branch update/blocks-and-assets-v1_4 pushed to origin.
 - Tag v6.1 pushed; release created: https://github.com/Redactedcraft/Assets/releases/tag/v6.1.
 - Assets.zip added for distribution.
+- Release asset uploaded: https://github.com/Redactedcraft/Assets/releases/download/v6.1/Assets.zip
 
 ## Next steps
 - Phase 2 complete; await further instructions.
 
 ## SWE-1.5 CONTINUATION PROMPT
-If taking over, Phase 2 is complete; verify Assets.zip commit and await instructions.
+If taking over, Phase 2 is complete; release asset is uploaded. Await instructions.
