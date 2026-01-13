@@ -20,7 +20,7 @@
 - Smoke: (not applicable)
 
 ## What was pushed
-- Branch update/blocks-and-assets-v1_4 pushed to origin (commit c01388e).
+- Branch update/blocks-and-assets-v1_4 pushed to origin.
 
 ## Next steps
 - Await user validation after game repo smoke/build instructions.
