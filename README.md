@@ -1,6 +1,6 @@
 # LatticeVeil Assets
 
-## V7.0.0.0 "Quantum Genesis" Assets
+## V7.0.0 "Quantum Genesis" Assets
 
 This repository contains the game assets for LatticeVeil V7.0.0.0 "Quantum Genesis" release.
 
@@ -22,9 +22,9 @@ This repository contains the game assets for LatticeVeil V7.0.0.0 "Quantum Genes
 
 ### Version Information
 
-- **Game Version**: V7.0.0.0 "Quantum Genesis"
+- **Game Version**: V7.0.0 "Quantum Genesis"
 - **Release Date**: January 28, 2026
-- **Compatibility**: Compatible with LatticeVeil V7.0.0.0 and later
+- **Compatibility**: Compatible with LatticeVeil V7.0.0 and later
 
 ### Usage
 
